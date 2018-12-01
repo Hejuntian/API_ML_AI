@@ -13,7 +13,7 @@ QA（领头的测试者） | 何俊添
 
 &nbsp;
 
-## Goals:（目标）
+## Goals（目标）
 实现对输入图像进行人脸识别并输出球员的基本信息
 
 &nbsp;
@@ -24,7 +24,7 @@ QA（领头的测试者） | 何俊添
 
 &nbsp;
 
-## Assumptions:（假设）
+## Assumptions（假设）
 用户使用此主要功能时，主要是在使用平板电脑的情境下。每次只能输入一张图片，图片必须包含完整的脸部。
 
 &nbsp;
@@ -42,6 +42,14 @@ User story | Title | Importance | Note
 输入球员图片--->检测与人脸库中球员图片对比的可信度（相似度）--->识别出球员--->输出球员基本信息（身高、体重、年龄、场上位置等）
 - 产品操作流程图
 ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
+- 产品原型设计：输入
+
+&nbsp;
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E8%BE%93%E5%85%A5.jpg)
+- 产品原型设计：输出
+
+&nbsp;
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.jpg)
 
 &nbsp;
 
