@@ -44,11 +44,11 @@ User story | Title | Importance | Note
 输入球员图片--->检测与人脸库中球员图片对比的可信度（相似度）--->识别出球员--->输出球员基本信息（身高、体重、年龄、场上位置等）
 - 产品操作流程图
 ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
-- 产品原型设计：输入
+- [产品原型设计](https://hejuntian.github.io/API_product_demo/start.html#g=1&p=球员识别页面)：输入
 
 &nbsp;
 ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E8%BE%93%E5%85%A5.jpg)
-- 产品原型设计：输出
+- [产品原型设计](https://hejuntian.github.io/API_product_demo/start.html#g=1&p=球员识别页面)：输出
 
 &nbsp;
 ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.jpg)
@@ -62,9 +62,11 @@ User story | Title | Importance | Note
 &nbsp;
 
 ## Not doing（不做）
-球员的表情分析
+- 球员的表情分析
+- 比赛的即时赛况与数据
 
 &nbsp;
 
 ## 清单
-
+- [产品原型设计(不完整版)](https://hejuntian.github.io/API_product_demo/start.html#g=1&p=球员识别页面)
+- [产品操作流程图](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
