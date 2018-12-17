@@ -58,6 +58,14 @@ User story | Title | Importance | Note
 
 &nbsp;
 
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE.PNG)
+
+&nbsp;
+
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE2.PNG)
+
+&nbsp;
+
 ## 用户痛点
 - 一些球迷在观看比赛的时候，可能会对部分球员不太熟悉和了解，有时候会分不清楚场上的球员，会影响观赛体验
 - 球员太多、太相似，球迷不可能每一个都记住，球迷可能会对久疏战阵、平时缺少上场机会的球员没有太多记忆
