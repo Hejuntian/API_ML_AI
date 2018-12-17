@@ -53,6 +53,14 @@ User story | Title | Importance | Note
 
 &nbsp;
 
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE.PNG)
+
+&nbsp;
+
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE2.PNG)
+
+&nbsp;
+
 ## Questions（问题）
 1. 如何建立人脸库？
 2. 如何将输入图片与人脸库图片进行对比?
