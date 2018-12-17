@@ -72,6 +72,17 @@ User story | Title | Importance | Note
 
 &nbsp;
 
+## AI概率性
+[人脸识别准确率已达99.7%](http://www.techweb.com.cn/data/2016-09-01/2384430.shtml)，但仍需要根据不同情况去评判
+
+&nbsp;
+
+## 使用后风险报告
+- 目前市场上已有一些电子产品有球星识别的功能，如：[vivo Jovi智慧识图识别球星](https://www.ihei5.com/vivo/2018/0625/1510.html)
+- 产品仅支持球员识别，用户群体可能偏小
+
+&nbsp;
+
 ## Questions（问题）
 1. 人脸库仍在尝试建立？
 2. 如何根据图片里的球员调出这个球员的相关信息？
