@@ -6,7 +6,7 @@
 
 Target release（发布日期） | 2018-12-16
 :---|:---
-Epic（史诗名称） | 球员人脸识别
+Epic（史诗名称） | 球员人脸识别搜索
 Document Status（文件现状） | 进行中
 Document owner（文件的主人） | 何俊添
 Designer（领头的设计师） | 何俊添
@@ -44,9 +44,15 @@ User story | Title | Importance | Note
 &nbsp;
 
 ## User interaction and design（使用者交互及设计）
-输入球员图片--->检测与人脸库中球员图片对比的可信度（相似度）--->识别出球员--->输出球员基本信息（身高、体重、年龄、场上位置等）
+- 产品架构
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+
+&nbsp;
+
 - 产品操作流程图
 ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
+输入球员图片--->检测与人脸库中球员图片对比的可信度（相似度）--->识别出球员--->输出球员基本信息（身高、体重、年龄、场上位置等）
+
 - [产品原型设计](https://hejuntian.github.io/API_product_demo/start.html#g=1&p=球员识别页面)：输入
 
 &nbsp;
@@ -55,14 +61,6 @@ User story | Title | Importance | Note
 
 &nbsp;
 ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.jpg)
-
-&nbsp;
-
-![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE.PNG)
-
-&nbsp;
-
-![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE2.PNG)
 
 &nbsp;
 
@@ -77,14 +75,17 @@ User story | Title | Importance | Note
 
 &nbsp;
 
+## 代码使用
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA.png)
+
 ## 使用后风险报告
 - 目前市场上已有一些电子产品有球星识别的功能，如：[vivo Jovi智慧识图识别球星](https://www.ihei5.com/vivo/2018/0625/1510.html)
-- 产品仅支持球员识别，用户群体可能偏小
+- 对输入图片质量要求较高，准确率飘忽不定，影响使用
 
 &nbsp;
 
 ## Questions（问题）
-1. 人脸库仍在尝试建立？
+1. 人脸库仍在建立完善？
 2. 如何根据图片里的球员调出这个球员的相关信息？
 
 &nbsp;
@@ -98,4 +99,5 @@ User story | Title | Importance | Note
 
 ## 清单
 - [产品原型设计(不完整版)](https://hejuntian.github.io/API_product_demo/start.html#g=1&p=球员识别页面)
+- [产品架构图](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 - [产品操作流程图](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%90%83%E5%91%98%E8%AF%86%E5%88%AB%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
