@@ -45,7 +45,7 @@ User story | Title | Importance | Note
 
 ## User interaction and design（使用者交互及设计）
 - 产品架构
-![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE%20.png)
 
 &nbsp;
 
@@ -78,6 +78,9 @@ User story | Title | Importance | Note
 ## 代码使用
 - 人脸搜索API
 ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA.png)
+
+- 语音合成API
+![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E6%88%AA%E5%9B%BE.png)
 
 ## 使用后风险报告
 - 目前市场上已有一些电子产品有球星识别的功能，如：[vivo Jovi智慧识图识别球星](https://www.ihei5.com/vivo/2018/0625/1510.html)
