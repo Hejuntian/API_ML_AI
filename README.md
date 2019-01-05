@@ -48,11 +48,13 @@ User story | Title | Importance | Note
 
 - 产品操作流程
 > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
+
 > 人脸识别搜索：打开“球员识别”界面--->点击“输入图片地址/选取图片”--->检测与人脸库中球员图片对比的可信度（相似度）--->识别出球员--->输出球员基本信息（身高、体重、年龄、场上位置等）
+
 > 语音解说：打开“赛程”界面>点击“文字直播”进入“文字直播”页面--->点击“语音解说”开始使用
 
 - [产品原型主要界面](https://hejuntian.github.io/API_product_demo/start.html#g=1&p=球员识别页面)：
-![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%95%8C%E9%9D%A2%E5%8E%9F%E5%9E%8B%E6%88%AA%E5%9B%BE.png)
+> ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E7%95%8C%E9%9D%A2%E5%8E%9F%E5%9E%8B%E6%88%AA%E5%9B%BE.png)
 
 &nbsp;
 
