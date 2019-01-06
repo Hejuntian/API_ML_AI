@@ -82,9 +82,9 @@ User story | Title | Importance | Note
 ## 代码使用
 - 人脸注册
 > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E6%B3%A8%E5%86%8C%E4%BB%A3%E7%A0%81%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE.png)
-> 人脸库中已注册的人脸
-  ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE.png)
-  ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E5%B7%B2%E5%BD%95%E5%85%A5%E7%9A%84%E4%BA%BA%E8%84%B8%E6%88%AA%E5%9B%BE.jpg)
+  - 人脸库中已注册的人脸
+  > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE.png)
+    ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E5%B7%B2%E5%BD%95%E5%85%A5%E7%9A%84%E4%BA%BA%E8%84%B8%E6%88%AA%E5%9B%BE.jpg)
 
 - 人脸搜索
 > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E6%90%9C%E7%B4%A2%E4%BB%A3%E7%A0%81%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE.png)
