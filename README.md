@@ -50,7 +50,6 @@ User story | Title | Importance | Note
 > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
 
 > - 人脸识别搜索：打开“球员识别”界面--->点击“输入图片地址/选取图片”--->检测与人脸库中球员图片对比的可信度（相似度）--->识别出球员--->输出球员基本信息（身高、体重、年龄、场上位置等）
-
 > - 语音解说：打开“赛程”界面--->点击“文字直播”进入“文字直播”页面--->点击“语音解说”开始使用
 
 - [产品原型主要界面](https://hejuntian.github.io/API_product_demo/start.html#g=1&p=球员识别页面)：
@@ -82,9 +81,11 @@ User story | Title | Importance | Note
 ## 代码使用
 - 人脸注册
 > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E6%B3%A8%E5%86%8C%E4%BB%A3%E7%A0%81%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE.png)
-  - 人脸库中已注册的人脸
-  > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE.png)
-    ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E5%B7%B2%E5%BD%95%E5%85%A5%E7%9A%84%E4%BA%BA%E8%84%B8%E6%88%AA%E5%9B%BE.jpg)
+
+> 人脸库中已注册的人脸
+  ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE.png)
+  
+  ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E5%B7%B2%E5%BD%95%E5%85%A5%E7%9A%84%E4%BA%BA%E8%84%B8%E6%88%AA%E5%9B%BE.jpg)
 
 - 人脸搜索
 > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E6%90%9C%E7%B4%A2%E4%BB%A3%E7%A0%81%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE.png)
