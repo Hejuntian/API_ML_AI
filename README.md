@@ -80,15 +80,24 @@ User story | Title | Importance | Note
 &nbsp;
 
 ## 代码使用
-- 人脸搜索API
+- 人脸注册
+> ![image]()
+> 人脸库中已注册的人脸
+>> ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E5%BA%93%E6%88%AA%E5%9B%BE.png)
+>> ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E5%B7%B2%E5%BD%95%E5%85%A5%E7%9A%84%E4%BA%BA%E8%84%B8%E6%88%AA%E5%9B%BE.jpg)
+
+- 人脸搜索
 > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E4%BA%BA%E8%84%B8%E6%90%9C%E7%B4%A2%E4%BB%A3%E7%A0%81%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE.png)
 
-- 语音合成API
+- 语音合成
 > ![image](https://github.com/Hejuntian/API_ML_AI/blob/master/images/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%A3%E7%A0%81%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE.png)
+
+&nbsp;
 
 ## 使用后风险报告
 - 目前市场上已有一些电子产品有球星识别的功能，如：[vivo Jovi智慧识图识别球星](https://www.ihei5.com/vivo/2018/0625/1510.html)
 - 对输入图片质量要求较高，准确率有时候不稳定，对于图片中多张面孔的识别搜索有时会不准确
+- 在进行人脸搜索时，所输入图片人脸的表情过于夸张会影响到输出结果
 
 &nbsp;
 
